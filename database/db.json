@@ -1,0 +1,82 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "َAmir mohammad",
+        "username": "amir",
+        "pass": "123",
+        "crime": 0,
+        "role": "ADMIN"
+      },
+      {
+        "id": 2,
+        "name": "ali",
+        "username": "ali123",
+        "pass": "123",
+        "crime": 0,
+        "role": "USER"
+      },
+      {
+        "id": 3,
+        "name": "reza",
+        "username": "reza123",
+        "pass": "123",
+        "crime": 90000,
+        "role": "ADMIN"
+      },
+      {
+        "id": 4,
+        "name": "javad",
+        "username": "javad123",
+        "pass": "123",
+        "crime": 0,
+        "role": "USER"
+      },
+      {
+        "id": 5,
+        "name": "mohammad",
+        "username": "mmd_salahi",
+        "pass": "123",
+        "crime": 0,
+        "role": "USER"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "title": "Love",
+        "author": "Elif Shafak",
+        "price": 230000,
+        "free": true
+      },
+      {
+        "id": 2,
+        "title": "Alchemist",
+        "author": "Paulo Coelho",
+        "price": 230000,
+        "free": true
+      },
+      {
+        "id": 3,
+        "title": "The secret of Da Vinci",
+        "author": "Dan Brown",
+        "price": 230000,
+        "free": true
+      },
+      {
+        "id": 4,
+        "title": "The Little Prince",
+        "author": " Antoine de Saint-Exupéry",
+        "price": 200000,
+        "free": false
+      }
+    ],
+    "rents": [
+      {
+       "id": 1,
+       "userID": 1, 
+        "bookID": 2 }
+      
+    ]
+  }
+  
